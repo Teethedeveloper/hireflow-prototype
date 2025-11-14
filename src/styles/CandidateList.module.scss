@@ -1,0 +1,35 @@
+@use './variables' as *;
+
+.listContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  width: 100%;
+}
+
+.cardWrapper {
+  padding: 0;
+  display: flex;
+}
+
+// Responsive
+@media (max-width: 1024px) {
+  .listContainer {
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.25rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .listContainer {
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .listContainer {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}

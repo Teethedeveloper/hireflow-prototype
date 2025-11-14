@@ -1,0 +1,15 @@
+@use './variables' as *;
+
+.metricsContainer {
+  display: flex;
+  gap: 1rem;
+  align-items: stretch;
+}
+
+.metricCard {
+  background: $card-bg;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: $panel-shadow;
+  flex: 1 1 0;
+}

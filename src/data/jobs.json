@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "skillsRequired": ["React", "TypeScript", "Sass", "Redux"],
+    "experienceRequired": 2,
+    "location": "Bangalore"
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "skillsRequired": ["Node.js", "Express", "PostgreSQL", "Docker"],
+    "experienceRequired": 3,
+    "location": "Mumbai"
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Developer",
+    "skillsRequired": ["React", "Node.js", "MongoDB", "TypeScript"],
+    "experienceRequired": 3,
+    "location": "Hyderabad"
+  },
+  {
+    "id": 4,
+    "title": "Python Developer",
+    "skillsRequired": ["Python", "Django", "PostgreSQL", "Docker"],
+    "experienceRequired": 4,
+    "location": "Pune"
+  },
+  {
+    "id": 5,
+    "title": "UI/UX Developer",
+    "skillsRequired": ["React", "Next.js", "GraphQL", "Sass"],
+    "experienceRequired": 2,
+    "location": "Delhi"
+  }
+]

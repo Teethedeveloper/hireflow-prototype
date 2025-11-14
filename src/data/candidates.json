@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Priya Sharma",
+    "skills": ["React", "Node.js", "MongoDB", "TypeScript"],
+    "experience": 3,
+    "location": "Bangalore",
+    "resume": "resumes/priya-sharma.pdf"
+  },
+  {
+    "id": 2,
+    "name": "Amit Patel",
+    "skills": ["Python", "Django", "PostgreSQL", "Docker"],
+    "experience": 5,
+    "location": "Mumbai",
+    "resume": "resumes/amit-patel.pdf"
+  },
+  {
+    "id": 3,
+    "name": "Sneha Reddy",
+    "skills": ["React", "Next.js", "GraphQL", "Sass"],
+    "experience": 2,
+    "location": "Hyderabad",
+    "resume": "resumes/sneha-reddy.pdf"
+  },
+  {
+    "id": 4,
+    "name": "Rohit Verma",
+    "skills": ["JavaScript", "Node.js", "Express", "PostgreSQL"],
+    "experience": 4,
+    "location": "Pune",
+    "resume": "resumes/rohit-verma.pdf"
+  },
+  {
+    "id": 5,
+    "name": "Ananya Gupta",
+    "skills": ["React", "TypeScript", "TailwindCSS", "Redux"],
+    "experience": 3,
+    "location": "Delhi",
+    "resume": "resumes/ananya-gupta.pdf"
+  }
+]
